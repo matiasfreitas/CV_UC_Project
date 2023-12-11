@@ -1,4 +1,4 @@
-## Feeling Your Images: Visual Emotion Recognition based on Image Attributes.
+# Feeling Your Images: Visual Emotion Recognition based on Image Attributes.
 ### Matias Freitas Guimaraes - matias.freitas.guimaraes@gmail.com
 
 ### Objective:
@@ -34,7 +34,7 @@ We apply this architecture to the domain of computer vision, employing self-atte
     
     4. The visual final product: A movie with captions for the predict labels.
 
-### Vision Transformer (ViT) Components:​
+# Vision Transformer (ViT) Components:​
 
 ![Vision Transformer from Google Diagram](./vit_figure.png)
 
