@@ -1,5 +1,5 @@
 ## Feeling Your Images: Visual Emotion Recognition based on Image Attributes.
-### Matias Freitas Guimaraes
+### Matias Freitas Guimaraes - matias.freitas.guimaraes@gmail.com
 
 ### Objective:
 Our primary goal is to move beyond conventional approaches that predominantly focus on facial features.
