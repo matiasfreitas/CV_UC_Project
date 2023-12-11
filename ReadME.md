@@ -164,7 +164,7 @@ Explainable AI (XAI) for transformer models is an important area, especially giv
 Explainable AI for transformers is about making these advanced models more transparent and understandable. While there are various techniques available, each has its strengths and limitations. The choice of technique depends on the specific model and the context of the task. As transformers continue to evolve, so too will the methods for explaining their decisions, which is crucial for responsible and ethical AI development.
 
 
-### The science behind the Labels
+# The science behind the Labels
 
 Below, Diagram of Plutchik’s Wheel of Emotions, the theory behind of the dataset labels.
 
